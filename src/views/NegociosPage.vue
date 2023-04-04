@@ -20,48 +20,48 @@ defineComponent({
 
 const sliderPerfilNegocios = ref([
   {
-    img: "/src/assets/slider-negocios/slider1.png",
-    img_lg: "/src/assets/slider-negocios/slider1-lg.png",
+    img: "https://sigredyn.sirv.com/slider-negocios/slider1.png",
+    img_lg: "https://sigredyn.sirv.com/slider-negocios/slider1-lg.png",
     text: "Tu perfil personalizado mostrando categorías, estudios, horarios, reseñas y mucho más",
   },
   {
-    img: "/src/assets/slider-negocios/slider2.png",
-    img_lg: "/src/assets/slider-negocios/slider2-lg.png",
+    img: "https://sigredyn.sirv.com/slider-negocios/slider2.png",
+    img_lg: "https://sigredyn.sirv.com/slider-negocios/slider2-lg.png",
     text: "Obtén un sello de verificación de tus credenciales, licencias y diplomas",
   },
   {
-    img: "/src/assets/slider-negocios/slider3.png",
-    img_lg: "/src/assets/slider-negocios/slider3-lg.png",
+    img: "https://sigredyn.sirv.com/slider-negocios/slider3.png",
+    img_lg: "https://sigredyn.sirv.com/slider-negocios/slider3-lg.png",
     text: "Muestra todos los servicios que prestas, sin importar el tipo",
   },
   {
-    img: "/src/assets/slider-negocios/slider4.png",
-    img_lg: "/src/assets/slider-negocios/slider4-lg.png",
+    img: "https://sigredyn.sirv.com/slider-negocios/slider4.png",
+    img_lg: "https://sigredyn.sirv.com/slider-negocios/slider4-lg.png",
     text: "Tu perfil profesional contará con toda la información, reviews y ratings de toda presencia online",
   },
   {
-    img: "/src/assets/slider-negocios/slider5.png",
-    img_lg: "/src/assets/slider-negocios/slider5-lg.png",
+    img: "https://sigredyn.sirv.com/slider-negocios/slider5.png",
+    img_lg: "https://sigredyn.sirv.com/slider-negocios/slider5-lg.png",
     text: "Perfil optimizado para que puedas ofrecer una opción de agendamiento en línea.",
   },
 ]);
 
 const sliderNegociosAgendamientos = ref([
   {
-    img: "/src/assets/slider-negocios-agendamiento/slider1.png",
-    img_lg: "/src/assets/slider-negocios-agendamiento/slider1-lg.png",
+    img: "https://sigredyn.sirv.com/slider-negocios-agendamiento/slider1.png",
+    img_lg: "https://sigredyn.sirv.com/slider-negocios-agendamiento/slider1-lg.png",
   },
   {
-    img: "/src/assets/slider-negocios-agendamiento/slider2.png",
-    img_lg: "/src/assets/slider-negocios-agendamiento/slider2-lg.png",
+    img: "https://sigredyn.sirv.com/slider-negocios-agendamiento/slider2.png",
+    img_lg: "https://sigredyn.sirv.com/slider-negocios-agendamiento/slider2-lg.png",
   },
   {
-    img: "/src/assets/slider-negocios-agendamiento/slider3.png",
-    img_lg: "/src/assets/slider-negocios-agendamiento/slider3-lg.png",
+    img: "https://sigredyn.sirv.com/slider-negocios-agendamiento/slider3.png",
+    img_lg: "https://sigredyn.sirv.com/slider-negocios-agendamiento/slider3-lg.png",
   },
   {
-    img: "/src/assets/slider-negocios-agendamiento/slider4.png",
-    img_lg: "/src/assets/slider-negocios-agendamiento/slider4-lg.png",
+    img: "https://sigredyn.sirv.com/slider-negocios-agendamiento/slider4.png",
+    img_lg: "https://sigredyn.sirv.com/slider-negocios-agendamiento/slider4-lg.png",
   },
 ]);
 </script>
