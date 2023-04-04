@@ -1,0 +1,19 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+@layer {
+    .btn-linear {
+        @apply font-medium border rounded-full bg-gradient-to-r from-[#4293F7] to-[#70F0CD] px-5 py-2.5
+    }
+    .linear-servy {
+        @apply bg-gradient-to-r from-[#4293F7] to-[#70F0CD]
+    }
+    .text-linear-servy {
+        @apply font-extrabold text-transparent bg-clip-text bg-gradient-to-r from-[#4293F7] to-[#70F0CD] text-2xl
+    }
+    .btn-blue {
+        @apply font-medium border rounded-full px-5 py-2.5 bg-servy-blue
+    }
+}
